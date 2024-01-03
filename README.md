@@ -1,4 +1,4 @@
-# Fashion MNIST Solver
+# Fashion MNIST image classification
 
 ## Introduction
 
