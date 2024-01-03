@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Fashion MNIST Solver is a project aimed at solving the Fashion MNIST problem. Fashion MNIST is a dataset containing 60,000 grayscale images of 10 different fashion items, with 6,000 images per class. The goal of this project is to develop a machine learning model that can classify these fashion items with high accuracy.
+Fashion MNIST is a dataset containing 60,000 grayscale images of 10 different fashion items, with 6,000 images per class. The goal of this project is to develop a machine learning model that can classify these fashion items with high accuracy.
 
 ## Dataset
 
